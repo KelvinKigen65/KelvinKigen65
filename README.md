@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there am Kelvin Kigen
+#Am an aspiring Fullstack Developer
 
 
 ## 🌐 Socials:
